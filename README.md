@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanddIt1
+- 👋 Hi, I’m @Dandd
 - 👀 I’m interested in Honkai Star Rail
 - 🌱 I’m currently learning Orientd Object Programming
 
