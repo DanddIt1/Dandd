@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DanddIt1
-- 👀 I’m interested in Anime
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Honkai Star Rail
+- 🌱 I’m currently learning Orientd Object Programming
 
 <!---
 DanddIt1/DanddIt1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
